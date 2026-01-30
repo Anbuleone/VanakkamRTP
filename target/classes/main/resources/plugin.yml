@@ -1,0 +1,7 @@
+name: VanakkamRTP
+version: 1.0
+main: com.anbu.vanakkamrtp.Main
+api-version: 1.21
+commands:
+  rtp:
+    description: Random teleport

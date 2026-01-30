@@ -1,0 +1,4 @@
+messages:
+  success: "&aVanakkam! Neenga teleport aagitteenga 🙏"
+  cooldown: "&cInnum &e%time%s &cwait pannunga ⏳"
+  console-only: "&cIndha command players-ku mattum dhaan!"

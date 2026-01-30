@@ -1,0 +1,5 @@
+# VanakkamRTP Configuration
+
+rtp:
+  cooldown-seconds: 300
+  radius: 1000
