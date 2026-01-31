@@ -23,3 +23,7 @@ Edit `messages.yml` to change Tamil text & colors.
 
 ## 💚 Credits
 Developed by **Anbu Leon**
+
+### 📢 Join our Discord
+Need help or want custom plugins?  
+👉 https://discord.gg/eCsHE7SeXA
